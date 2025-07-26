@@ -1,63 +1,54 @@
-# Portfolio Website
+# Proposal Website
 
-This is a static portfolio website designed to showcase projects and provide information about the creator. The website is structured to include sections for the portfolio, about me, and contact information.
+This project is a simple website created to propose to a special someone. It includes a heartfelt message and is designed to be visually appealing and easy to navigate.
 
 ## Project Structure
 
 ```
-portfolio-website
+proposal-website
 ├── assets
 │   ├── css
 │   │   └── styles.css
 │   ├── js
 │   │   └── scripts.js
-│   └── fonts
 ├── index.html
 └── README.md
 ```
 
-## Getting Started
+## Files Description
 
-To get a local copy up and running, follow these simple steps:
+- **index.html**: The main HTML document that contains the structure of the webpage, including a header, sections for the proposal message, and a footer.
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+- **assets/css/styles.css**: This file contains the CSS styles for the website, defining the layout, colors, fonts, and other visual aspects.
+
+- **assets/js/scripts.js**: This file includes JavaScript code for any interactive features on the website, such as form validation or animations.
+
+## How to Set Up
+
+1. Clone the repository to your local machine:
+   ```
+   git clone https://github.com/yourusername/proposal-website.git
    ```
 
-2. **Navigate to the project directory**
-   ```bash
-   cd portfolio-website
+2. Navigate to the project directory:
+   ```
+   cd proposal-website
    ```
 
-3. **Open `index.html` in your web browser**
-   You can simply double-click the `index.html` file or open it using your preferred web browser.
+3. Open `index.html` in your web browser to view the website.
 
-## Deployment
+## Deploying on GitHub Pages
 
-To deploy this project on GitHub Pages, follow these steps:
+1. Push your project to a GitHub repository.
 
-1. Push your code to a GitHub repository.
-2. Go to the repository on GitHub.
-3. Click on the "Settings" tab.
-4. Scroll down to the "GitHub Pages" section.
-5. Under "Source", select the branch you want to use (usually `main` or `master`).
-6. Click "Save".
-7. Your site will be published at `https://yourusername.github.io/portfolio-website`.
+2. Go to the repository settings.
 
-## Built With
+3. Scroll down to the "GitHub Pages" section.
 
-- HTML
-- CSS
-- JavaScript
+4. Select the branch you want to use (usually `main` or `master`) and click "Save".
 
-## Author
-
-Your Name  
-[Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-[Your Email](mailto:youremail@example.com)
+5. Your website will be published at `https://yourusername.github.io/proposal-website`.
 
 ## Acknowledgments
 
-- Inspiration from various portfolio websites.
-- Resources from online tutorials and documentation.
+Special thanks to everyone who has supported me in this journey.
